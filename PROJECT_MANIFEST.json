@@ -1,0 +1,17 @@
+{
+  "project": "Me’Raj International School Maiduguri — Complete Website & Admission Portal",
+  "included": [
+    "Responsive school website",
+    "Online admission application",
+    "Automatic application number",
+    "Admin login and dashboard",
+    "Application search/filter/review/accept/reject/print",
+    "Dynamic Gallery upload manager",
+    "Dynamic Audio upload manager",
+    "Dynamic Video upload manager",
+    "School content in English",
+    "School logo and supplied media assets",
+    "Database schema",
+    "Hosting/admin setup guide"
+  ]
+}
